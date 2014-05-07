@@ -13,3 +13,9 @@ Una [kata](https://en.wikipedia.org/wiki/Kata_\(programming\)) de código es un 
 > En [karate](https://en.wikipedia.org/wiki/Karate), una kata es un ejercicio en el que repites una forma muchas, muchas veces, haciendo pequeños progresos cada vez. La idea detrás de una kata de código es similar. Ejercicios cortos, tal vez de 30 minutos ó 1 hora de duración. Puedes ser programados de muchas maneras. Algunos no son conclusivos, y se tratan más bien de pensar en cuestiones más allá de la programación. Probablemente éstos no tengan una única respuesta correcta.
 
 > El punto de una kata no es llegar a una respuesta correcta. El punto es todo aquello que aprendes mientras tanto. El objetivo es la práctica, no la solución.
+
+
+## Reglas
+
++ Los ejercicios deben estar en un repositorio en [GitHub](https://github.com/edmt) o [BitBucket](https://bitbucket.org/).
++ Para compartir los ejercicios deben publicar un comentario en este repositorio, en el **Issue** correspondiente, apuntando a la URL del repositorio en uno de estos dos sitios.
