@@ -19,3 +19,7 @@ Una [kata](https://en.wikipedia.org/wiki/Kata_\(programming\)) de código es un 
 
 + Los ejercicios deben estar en un repositorio en [GitHub](https://github.com/edmt) o [BitBucket](https://bitbucket.org/).
 + Para compartir los ejercicios deben publicar un comentario en este repositorio, en el **Issue** correspondiente, apuntando a la URL del repositorio en uno de estos dos sitios.
+
+## Katas
+
++ [Kata 0: Voltear una cadena](https://github.com/edmt/katas.go/issues/1)
